@@ -12,9 +12,7 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="hen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="hen-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
-  
-## 
+</div> 
   
 # Entre em contato comigo
   
