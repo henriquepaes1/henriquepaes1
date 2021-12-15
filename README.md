@@ -1,8 +1,8 @@
 # Olá! Bem-vindo!
 
 - 🔭 Estudante de Engenharia da Computação na Escola Politécnica da USP
-- 📖 Sofrendo com a faculdade e me aventurando em Data Science
-- 💬 Aqui, você acha todos os projetos relevantes que eu fiz nessa jornada, busco seguir na área de Engenharia de Software
+- 📖 Sofrendo com a faculdade e me aventurando em Data Science e Engenharia de Software.
+- 💬 Aqui, você acha todos os projetos relevantes que eu fiz nessa jornada.
 
 <div align="center">
   <a href="https://github.com/henriquepaes1">
