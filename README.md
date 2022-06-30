@@ -1,7 +1,7 @@
 # Olá! Bem-vindo!
 
 - 🔭 Estudante de Engenharia da Computação na Escola Politécnica da USP
-- 📖 Sofrendo com a faculdade e me aventurando em Data Science e Engenharia de Software.
+- 📖 Aproveitando o ambiente acadêmico para me aprofundar na área de engenharia de software
 - 💬 Aqui, você acha todos os projetos relevantes que eu fiz nessa jornada.
 
 <div align="center">
