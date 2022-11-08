@@ -25,8 +25,8 @@
           
           
 </div> 
- # Projetos
- 
+  
+# Projetos
   ## [Observatório Municipal da Pessoa com Deficiência](https://observatorio.smped.prefeitura.sp.gov.br/)
   Neste projeto, que foi o meu primeiro como parte do GARSoft, tive meu primeiro contato com o processo de desenvolvimento de software, começando da conversa com os stakeholders até a implementação e implantação do sistema.
   
