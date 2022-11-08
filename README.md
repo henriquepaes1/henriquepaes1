@@ -5,7 +5,7 @@
 - 📖 Atualmente, membro do [Grupo de Arquitetura de Software da Poli - USP](https://www.linkedin.com/company/garsoft)
 - 💬 Aqui, você acha todos os projetos relevantes que eu fiz nessa jornada.
 
-<div align="center">
+<div style="margin-bottom: 5px;" align="center">
   <a href="https://github.com/henriquepaes1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquepaes1&show_icons=true&border_color=ffffff&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepaes1&layout=compact&langs_count=5&theme=tokyonight&show_icons=true"/>
