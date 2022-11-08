@@ -7,7 +7,7 @@
 
 <div style="margin-bottom: 15px;" align="center">
   <a href="https://github.com/henriquepaes1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquepaes1&show_icons=true&border_color=ffffff&theme=tokyonight&hide=[Python]&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquepaes1&show_icons=true&border_color=ffffff&theme=tokyonight&langs_count=6&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepaes1&layout=compact&langs_count=5&theme=tokyonight&show_icons=true"/>
 </div>
  <div style="margin:0 auto;" align="center"><br>
