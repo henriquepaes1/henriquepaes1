@@ -41,6 +41,17 @@
   - Java
   - Spring Boot
   
+  ##[Super Gerenciador Musical](https://github.com/projetomac0321/SuperGerenciadorMusical)
+  O objetivo deste projeto era criar uma aplicação que permitisse o usuário a realizar operações no Spotify. Para isso, o Super Gerenciador Musical se conectava com a API do Spotify e a partir desta, possibilitava o usuário realizar ações como buscar músicas e criar playlists. Toda a minha contribuição pode ser acessada através do repositório da aplicação, para acessá-lo, basta clicar no título
+  
+  ### Tarefas desenvolvidas
+  - Autenticação na API com protocolo OAuth 2.0
+  - Desenvolvimento dos controllers da API do Sistema
+  
+  ## Tecnologias utilizadas
+  - Java
+  - Spring Boot
+  
   
 # Entre em contato comigo 
   
