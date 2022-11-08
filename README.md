@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquepaes1&show_icons=true&border_color=ffffff&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepaes1&layout=compact&langs_count=5&theme=tokyonight&show_icons=true"/>
 </div>
- <div style="display: inline_block"><br>
+ <div style="display: inline_block" margin="0 auto"><br>
    <img align="center" alt="hen-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    
   <img align="center" alt="hen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
