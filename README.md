@@ -48,7 +48,7 @@
   - Autenticação na API com protocolo OAuth 2.0
   - Desenvolvimento dos controllers da API do Sistema
   
-  ## Tecnologias utilizadas
+  ### Tecnologias utilizadas
   - Java
   - Spring Boot
   
