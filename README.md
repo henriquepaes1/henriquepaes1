@@ -8,8 +8,6 @@
 <div style="margin-bottom: 15px;" align="center">
   <a href="https://github.com/henriquepaes1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquepaes1&show_icons=true&border_color=ffffff&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepaes1&layout=compact&langs_count=5&theme=tokyonight&show_icons=true&langs_count=6"/>
-</div>
  <div style="margin:0 auto;" align="center"><br>
    <img align="center" alt="hen-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    
@@ -27,6 +25,18 @@
 </div> 
   
 # Projetos
+
+  ## Digital Twin para monitoramento do consumo de energia
+  Meu primeiro grande projeto como membro do GARSoft, tive a oportunidade de me envolver em um projeto dentro de um domínio importante, o monitoramento do consumo energético. Neste projeto, possuíamos um hardware especializado, que provisionava as informações em tempo real, a partir disso, podíamos construir todo o sistema para tratamento e apresentação destes dados na forma de dashboards.
+  
+  ### Tarefas desenvolvidas
+  - Construção do módulo de comunicação MQTT com o hardware citado anteriormente. Este módulo envolve um broker, para recebimento das informações e posterior consumo por um client MQTT.
+  - Criação e administração do banco de dados, onde ocorriam a escrita dos dados coletados, em intervalo de tempo pré-definido. 
+  
+  ### Ferramentas utilizadas 
+  - Java
+  - PostgreSQL
+  
   ## [Observatório Municipal da Pessoa com Deficiência](https://observatorio.smped.prefeitura.sp.gov.br/)
   Neste projeto, que foi o meu primeiro como parte do GARSoft, tive meu primeiro contato com o processo de desenvolvimento de software, começando da conversa com os stakeholders até a implementação e implantação do sistema.
   
