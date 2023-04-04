@@ -32,10 +32,12 @@
   ### Tarefas desenvolvidas
   - Construção do módulo de comunicação MQTT com o hardware citado anteriormente. Este módulo envolve um broker, para recebimento das informações e posterior consumo por um client MQTT.
   - Criação e administração do banco de dados, onde ocorriam a escrita dos dados coletados, em intervalo de tempo pré-definido. 
+  - Criação de endpoint para criação de gráficos, que posteriormente seriam utilizados nos dashboards
   
   ### Ferramentas utilizadas 
   - Java
   - PostgreSQL
+  - Python (FastAPI)
   
   ## [Observatório Municipal da Pessoa com Deficiência](https://observatorio.smped.prefeitura.sp.gov.br/)
   Neste projeto, que foi o meu primeiro como parte do GARSoft, tive meu primeiro contato com o processo de desenvolvimento de software, começando da conversa com os stakeholders até a implementação e implantação do sistema.
