@@ -4,6 +4,7 @@
 - 📖 Aproveitando o ambiente acadêmico para me aprofundar na área de engenharia de software
 - 📖 Atualmente, membro do [Grupo de Arquitetura de Software da Poli - USP](https://www.linkedin.com/company/garsoft)
 - 💬 Aqui, você acha todos os projetos relevantes que eu fiz nessa jornada.
+- 💬 Para mais detalhes sobre minha carreira, acesse [meu currículo](https://drive.google.com/file/d/16yj1QKzjG89hxL2dRd7I9mK3-MhLP9c6/view?usp=share_link)
 
 <div style="margin-bottom: 15px;" align="center">
   <a href="https://github.com/henriquepaes1">
