@@ -27,6 +27,8 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
    </div> 
 </div> 
+<br>
+Para verificar algumas das minhas certificações nas ferramentas citadas acima, veja meu perfil no LinkedIn disponível na sessão abaixo :)
 
 # Entre em contato comigo 
   
@@ -36,33 +38,27 @@
 </div>
   
 # Projetos pessoais e acadêmicos
+Nesta sessão, destaco os projetos onde houveram mais aprendizados práticos em termos de ferramentas que almejo utilizar na carreira ou sistemas nos quais o
+aprendizado principal se dá na aplicação de metódos de Engenharia aprendidos na graduação. Outros projetos menores podem ser visto nos meus repositórios, dos quais destaco:
+- [Resta Um](https://github.com/henriquepaes1/restaum): Algoritmo para resolução de tabuleiro genérico de resta um em C.
+- [Organize.se](https://github.com/henriquepaes1/organizese): Plataforma para organização de tarefas. Projeto final do curso CS50.
 
-## Digital Twin para monitoramento do consumo de energia
-Meu primeiro grande projeto na área de engenharia de software, como membro do GARSoft, tive a oportunidade de me envolver com um domínio interessante, o monitoramento do consumo energético. Neste projeto, possuíamos um hardware especializado, que provisionava as informações em tempo real, a partir disso, podíamos construir todo o sistema para tratamento e apresentação destes dados na forma de dashboards. Veja o funcionamento básico do projeto [aqui](https://www.youtube.com/watch?v=zx88UEb6dOE&t=2s)
-  
-  ### Tarefas desenvolvidas
-  - Construção do módulo de comunicação MQTT com o hardware citado anteriormente. Este módulo, escrito em Java, possui a responsabilidade de receber os dados do broker MQTT e persistí-los de forma estruturada no PostgreSQL. 
-  - Criação e administração do banco de dados, onde ocorriam a escrita dos dados coletados mencionados no módulo anterior, em intervalo de tempo pré-definido. 
-  - Criação de backend para criação dos dashboards que seriam utilizados no front-end da aplicação. Para criação dos gráficos utilizou-se a biblioteca Plotly.
-  
-  ### Ferramentas utilizadas 
-  - Java
-  - PostgreSQL
-  - Python (FastAPI)
-  
-  ## [Observatório Municipal da Pessoa com Deficiência](https://observatorio.smped.prefeitura.sp.gov.br/)
-  Neste projeto, que foi o meu primeiro como parte do GARSoft, tive meu primeiro contato com o processo de desenvolvimento de software, começando da conversa com os stakeholders da Prefeitura da Cidade de São Paulo até a implementação e implantação do sistema. Esta experiência foi particularmente enriquecedora pois o frontend acessível foi testado por um deficiente visual, funcionário da prefeitura. 
-  
-  ### Tarefas desenvolvidas
-  - Participação em todas as etapas do processo de software, incluindo meetings na SMPED
-  - Desenvolvimento do design responsivo da página
-  - Aplicação de técnicas de acessibilidade Digital
-  - Criação do endpoint para exportação dos arquivos csv.
-  
-  ### Ferramentas utilizadas
-  - AngularJS
-  - Java
-  - Spring 
+## [Twin Genious - Digital Twin do jogo Genius](https://www.canva.com/design/DAFxDvowMMk/fmFql6FsF3cnarBq7WEV1A/edit?utm_content=DAFxDvowMMk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  Este projeto, apresentado como parte final da disciplina de Laboratório Digital I, possibilita uma nova experiência para o tradicional jogo Genius.
+  Através de uma interface Web, é possível jogar em um circuito digital cuja lógica do jogo é 100% implementada em FPGA. O jogo ainda conta com dois modos diferentes e 
+  uma lógica de retorno sonoro também implementada em FPGA. O código fonte está disponível [aqui](https://github.com/GARSoftPoli/twin-genious).
+
+  ### Aprendizados principais
+  - Implementação de circuito digital em FPGA utilizando VHDL
+  - Recebimento de mensagens MQTT utilizando uma placa ESP32
+  - Integração entre sistema Hardware e Software
+  - Provisionamento de um broker cloud utilizando HiveMQ
+
+   ### Ferramentas utilizadas
+   - VHDL
+   - C
+   - ESP32
+   - MQTT
 
   ## [Sistema para gerência de sorveterias](https://github.com/004-JPA/FranquiaSorveteria)
   Este projeto consiste em uma API para consultas em um banco de dados MySQL, que simula o uso do sistema para fins gerenciais, com consultas analíticas acerca dos dados. Esta aplicação foi entregue como apresentação final da disciplina de Banco de Dados I do curso de Engenharia da Computação. 
@@ -77,13 +73,28 @@ Meu primeiro grande projeto na área de engenharia de software, como membro do G
   - Java
   - Spring
   - MySQL
+
+## [Sistema para gerência de franquias](https://github.com/henriquepaes1/sistemas-franquias-final/)
+Este projeto foi feito como parte do [curso Java e Orientação a Objetos do professor Nélio Alves](https://www.udemy.com/certificate/UC-199891b4-8770-4335-8484-32514045879b/), feito para consolidar os aprendizados nos temas desenvolvidos. Trata-se de uma API que possibilita operações simples na lógica de negócios de uma franquia.
+
+### Principais Aprendizados  
+- Construção de código com base em um diagrama de classes fornecido
+- Configuração de conexão com banco de dados com ORM
+- Criação de ambiente de testes utilizando ORM
+- Representação de relações do diagrama de entidade-relação com um framework ORM
+
+### Ferramentas utilizadas
+- Java
+- Spring
+- Hibernate
+- MySQL
   
-  ## [Super Gerenciador Musical](https://github.com/projetomac0321/SuperGerenciadorMusical)
+## [Super Gerenciador Musical](https://github.com/projetomac0321/SuperGerenciadorMusical)
   O objetivo deste projeto era criar uma aplicação que permitisse o usuário a realizar operações no Spotify. Para isso, o Super Gerenciador Musical se conectava com a API do Spotify e a partir desta, possibilitava o usuário realizar ações como buscar músicas e criar playlists. Toda a minha contribuição pode ser acessada através do repositório da aplicação, para acessá-lo, basta clicar no título
   
-  ### Tarefas desenvolvidas
-  - Autenticação na API com protocolo OAuth 2.0
-  - Desenvolvimento dos controllers da API do Sistema
+  ### Principais Aprendizados
+  - Fluxo de autenticação em uma API externa com protocolo OAuth 2.0
+  - Primeiro contato com REST APIs utilizando Spring Boot
   
   ### Tecnologias utilizadas
   - Java
