@@ -1,10 +1,10 @@
-# Olá! Bem-vindo!
+# Hello!
 
-- 🔭 Estudante de Engenharia da Computação na Escola Politécnica da USP
-- 📖 Aproveitando o ambiente acadêmico para me aprofundar na área de engenharia de software
-- 📖 Atualmente, membro do [Grupo de Arquitetura de Software da Poli - USP](https://www.linkedin.com/company/garsoft)
-- 💬 Aqui, você acha todos os projetos relevantes que eu fiz nessa jornada.
-- 💬 Para mais detalhes sobre minha experiência profissional, acesse [meu currículo](https://drive.google.com/file/d/1pGP4_vjpY8NFMXP0QXftu6Vr9g5uq9Xd/view?usp=drive_link)
+- 🔭 Computer Engineering Senior at Polytechnic School of the University of São Paulo (POLI-USP)
+- 📖 Looking forward to enhancing my software engineering skills in the academic environment
+- 📖 [Poli's Software Architecture Group](https://www.linkedin.com/company/garsoft) member
+- 💬 Here, you can find all the relevant projects I developed through my journey
+- 💬 For more details regarding my professional experience, refer to [my CV](https://drive.google.com/file/d/1SdgB1Uhf1UlVt-pOIcp6JlufHmbEEQLp/view?usp=sharing)
 
 <div style="margin:0 auto;" align="center"><br>
    <img align="center" alt="hen-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -28,75 +28,77 @@
    </div> 
 </div> 
 <br>
-Para verificar algumas das minhas certificações nas ferramentas citadas acima, veja meu perfil no LinkedIn disponível na sessão abaixo :)
+Check my certifications in the tecnologies above in my LinkedIn profile, provided in the section below :)
 
-# Entre em contato comigo 
+# Contact me
   
 <div>
 <a href=https://www.linkedin.com/in/henriquepaes1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:henriquee.paes1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-# Projetos pessoais e acadêmicos
-Nesta sessão, destaco os projetos onde houveram mais aprendizados práticos em termos de ferramentas que almejo utilizar na carreira ou sistemas nos quais o
-aprendizado principal se dá na aplicação de metódos de Engenharia aprendidos na graduação. Outros projetos menores podem ser visto nos meus repositórios, dos quais destaco:
-- [Resta Um](https://github.com/henriquepaes1/restaum): Algoritmo para resolução de tabuleiro genérico de resta um em C.
-- [Organize.se](https://github.com/henriquepaes1/organizese): Plataforma para organização de tarefas. Projeto final do curso CS50.
+# Personal and academic projects
+In this section, I highlight the projects in which I had practical experience in the tools I intend to use in my career and systems that development required the application 
+of engineering methods learned during my undergraduate. Among the smaller projects, I highlight: 
 
-## [Twin Genious - Digital Twin do jogo Genius](https://www.canva.com/design/DAFxDvowMMk/fmFql6FsF3cnarBq7WEV1A/edit?utm_content=DAFxDvowMMk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  Este projeto, apresentado como parte final da disciplina de Laboratório Digital I, possibilita uma nova experiência para o tradicional jogo Genius.
-  Através de uma interface Web, é possível jogar em um circuito digital cuja lógica do jogo é 100% implementada em FPGA. O jogo ainda conta com dois modos diferentes e 
-  uma lógica de retorno sonoro também implementada em FPGA. O código fonte está disponível [aqui](https://github.com/GARSoftPoli/twin-genious).
+- [Resta Um](https://github.com/henriquepaes1/restaum): Algorithm for resolution of generic peg solitaire game using C.
+- [Organize.se](https://github.com/henriquepaes1/organizese): Platform for tasks management. Final project of the CS50 course.
 
-  ### Aprendizados principais
-  - Implementação de circuito digital em FPGA utilizando VHDL
-  - Recebimento de mensagens MQTT utilizando uma placa ESP32
-  - Integração entre sistema Hardware e Software
-  - Provisionamento de um broker cloud utilizando HiveMQ
+## [Twin Genious - Genius Game Digital Twin](https://www.canva.com/design/DAFxDvowMMk/fmFql6FsF3cnarBq7WEV1A/edit?utm_content=DAFxDvowMMk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  This project, presented as the final project of the Digital Laboratory I discipline, brings a new experience for the classical Genius game.
+  Using a web interface, you can control a digital circuit fully implemented in FPGA that contains the game's logic. The game has two different play modes and includes sound feedback using  a circuit also controlled by an FPGA.
+  Check the project's source code [here](https://github.com/GARSoftPoli/twin-genious).
 
-   ### Ferramentas utilizadas
+  ### Key Learnings
+  - Digital Circuit implementation in FPGA using VHDL
+  - MQTT messages handling with ESP32
+  - Hardware-Software integration
+  - Cloud broker provisioning using HiveMQ
+
+   ### Tools
    - VHDL
-   - C
+   - C (Arduino)
    - ESP32
    - MQTT
 
-  ## [Sistema para gerência de sorveterias](https://github.com/004-JPA/FranquiaSorveteria)
-  Este projeto consiste em uma API para consultas em um banco de dados MySQL, que simula o uso do sistema para fins gerenciais, com consultas analíticas acerca dos dados. Esta aplicação foi entregue como apresentação final da disciplina de Banco de Dados I do curso de Engenharia da Computação. 
+  ## [Ice cream shop management system](https://github.com/004-JPA/FranquiaSorveteria)
+  This project is an API for querying a MySQL database containing analytical queries regarding multiple aspects of an ice cream shop. 
+  This application was the final project for the Databases I discipline.
 
-  ### Atividades desenvolvidas
-  - Elaboração do Diagrama Entidade-Relação do banco de dados
-  - Elaboração das queries para consulta das informações necessárias, mais detalhes no [repositório do projeto](https://github.com/004-JPA/FranquiaSorveteria)
-  - Construção dos endpoints para obtenção dos dados
-  - Criação do banco de dados SQL, bem como das tabelas referentes à estrutura idealizada no diagrama mencionado anteriormente
+  ### Key Learnings
+  - Entity-Relationship diagram creation
+  - Non-obvious SQL query elaboration regarding insights defined by the team
+  - Endpoints construction
+  - MySQL database and tables creation
 
-  ### Ferramentas utilizadas
+  ### Tools
   - Java
   - Spring
   - MySQL
 
-## [Sistema para gerência de franquias](https://github.com/henriquepaes1/sistemas-franquias-final/)
-Este projeto foi feito como parte do [curso Java e Orientação a Objetos do professor Nélio Alves](https://www.udemy.com/certificate/UC-199891b4-8770-4335-8484-32514045879b/), feito para consolidar os aprendizados nos temas desenvolvidos. Trata-se de uma API que possibilita operações simples na lógica de negócios de uma franquia.
+## [Franchise management system](https://github.com/henriquepaes1/sistemas-franquias-final/)
+Final project of the course [curso Java e Orientação a Objetos do professor Nélio Alves](https://www.udemy.com/certificate/UC-199891b4-8770-4335-8484-32514045879b/), regarding the topics covered in the course. The project is a simple CRUD API for the business logic of franchises.
 
-### Principais Aprendizados  
-- Construção de código com base em um diagrama de classes fornecido
-- Configuração de conexão com banco de dados com ORM
-- Criação de ambiente de testes utilizando ORM
-- Representação de relações do diagrama de entidade-relação com um framework ORM
+### Key Learnings
+- Creating classes according to UML diagrams
+- Database connection setup
+- ORM framework usage to map the relations defined in UML diagrams
+- Test environment setup for ORM usage
 
-### Ferramentas utilizadas
+### Tools
 - Java
 - Spring
 - Hibernate
 - MySQL
   
 ## [Super Gerenciador Musical](https://github.com/projetomac0321/SuperGerenciadorMusical)
-  O objetivo deste projeto era criar uma aplicação que permitisse o usuário a realizar operações no Spotify. Para isso, o Super Gerenciador Musical se conectava com a API do Spotify e a partir desta, possibilitava o usuário realizar ações como buscar músicas e criar playlists. Toda a minha contribuição pode ser acessada através do repositório da aplicação, para acessá-lo, basta clicar no título
+  This project consists of an application that communicates with Spotify's API. The user can perform operations regarding its playlists and music. 
   
-  ### Principais Aprendizados
-  - Fluxo de autenticação em uma API externa com protocolo OAuth 2.0
-  - Primeiro contato com REST APIs utilizando Spring Boot
+  ### Key learnings
+  - Authentication in external APIs using OAuth 2.0
+  - Endpoints development using Spring Boot. 
   
-  ### Tecnologias utilizadas
+  ### Tools
   - Java
   - Spring 
   
