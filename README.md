@@ -42,7 +42,27 @@ In this section, I highlight the projects in which I had practical experience in
 of engineering methods learned during my undergraduate. Among the smaller projects, I highlight: 
 
 - [Resta Um](https://github.com/henriquepaes1/restaum): Algorithm for resolution of generic peg solitaire game using C.
+- [Web Server](https://github.com/henriquepaes1/servidor-web): Simple Web Server using Python Socket Programming
 - [Organize.se](https://github.com/henriquepaes1/organizese): Platform for tasks management. Final project of the CS50 course.
+
+## [Smart Cam](https://www.canva.com/design/DAF79YRvrBc/8r4vmDkX1FXDvOye1nYRnA/edit)
+This project, presented as the final project of the Digital Laboratory II discipline consists of a smart camera that points towards sound noises that exceed a pre-defined limit.
+The idea behind this project is to build a camera that doesn't have a static position (such as the majority of the cameras in the market), in a way that it could point towards an occurrence that produces high noise, 
+such as a car crash.
+Using Smart Cam, you can either control the camera manually or let it react to the environment sounds. The recording is always available online at any time.
+
+### Key Learnings
+- Digital Circuit implementation in FPGA using VHDL
+- Arduino Integration with FPGA
+- Web Streaming through internet
+
+### Tools
+- Arduino
+- VHDL
+- ESP32-CAM
+- FPGA
+- Servo Motors
+- KY-038 sensor modules
 
 ## [Twin Genious - Genius Game Digital Twin](https://www.canva.com/design/DAFxDvowMMk/fmFql6FsF3cnarBq7WEV1A/edit?utm_content=DAFxDvowMMk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   This project, presented as the final project of the Digital Laboratory I discipline, brings a new experience for the classical Genius game.
