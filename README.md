@@ -1,10 +1,9 @@
 # Hello!
 
 - 🔭 Computer Engineering Senior at Polytechnic School of the University of São Paulo (POLI-USP)
-- 📖 Looking forward to enhancing my software engineering skills in the academic environment
 - 📖 [Poli's Software Architecture Group](https://www.linkedin.com/company/garsoft) member
-- 💬 Here, you can find all the relevant projects I developed through my journey
-- 💬 For more details regarding my professional experience, refer to [my CV](https://drive.google.com/file/d/1SdgB1Uhf1UlVt-pOIcp6JlufHmbEEQLp/view?usp=sharing)
+- 💬 Here, you can find all the relevant projects I developed/contributed to throughout my career
+- 💬 For more details regarding my professional experience, refer to [my CV]([https://drive.google.com/file/d/1SdgB1Uhf1UlVt-pOIcp6JlufHmbEEQLp/view?usp=sharing](https://drive.google.com/file/d/1bE47gwdtuRyLdWqqH4mdPMoPfi93M7jG/view?usp=sharing))
 
 <div style="margin:0 auto;" align="center"><br>
    <img align="center" alt="hen-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
