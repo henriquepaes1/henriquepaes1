@@ -5,30 +5,6 @@
 - 💬 Here, you can find all the relevant projects I developed/contributed to throughout my career
 - 💬 For more details regarding my professional experience, refer to [my CV](https://drive.google.com/file/d/1bE47gwdtuRyLdWqqH4mdPMoPfi93M7jG/view?usp=sharing)
 
-<div style="margin:0 auto;" align="center"><br>
-   <img align="center" alt="hen-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   
-  <img align="center" alt="hen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
-  <img align="center" alt="hen-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-   <img align="center" alt="hen-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-   
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-          
-
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
-   
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-   </div> 
-</div> 
-<br>
-Check my certifications in the tecnologies above in my LinkedIn profile, provided in the section below :)
-
 # Contact me
   
 <div>
@@ -85,8 +61,8 @@ Using Smart Cam, you can either control the camera manually or let it react to t
   This application was the final project for the Databases I discipline.
 
   ### Key Learnings
+  - Analytical SQL query development
   - Entity-Relationship diagram creation
-  - Non-obvious SQL query elaboration regarding insights defined by the team
   - Endpoints construction
   - MySQL database and tables creation
 
@@ -94,21 +70,6 @@ Using Smart Cam, you can either control the camera manually or let it react to t
   - Java
   - Spring
   - MySQL
-
-## [Franchise management system](https://github.com/henriquepaes1/sistemas-franquias-final/)
-Final project of the course [curso Java e Orientação a Objetos do professor Nélio Alves](https://www.udemy.com/certificate/UC-199891b4-8770-4335-8484-32514045879b/), regarding the topics covered in the course. The project is a simple CRUD API for the business logic of franchises.
-
-### Key Learnings
-- Creating classes according to UML diagrams
-- Database connection setup
-- ORM framework usage to map the relations defined in UML diagrams
-- Test environment setup for ORM usage
-
-### Tools
-- Java
-- Spring
-- Hibernate
-- MySQL
   
 ## [Super Gerenciador Musical](https://github.com/projetomac0321/SuperGerenciadorMusical)
   This project consists of an application that communicates with Spotify's API. The user can perform operations regarding its playlists and music. 
