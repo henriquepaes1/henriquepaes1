@@ -1,9 +1,8 @@
 # Hello!
 
-- 🔭 Computer Engineering Senior at Polytechnic School of the University of São Paulo (POLI-USP)
-- 📖 [Poli's Software Architecture Group](https://www.linkedin.com/company/garsoft) member
-- 💬 Here, you can find all the relevant projects I developed/contributed to throughout my career
-- 💬 For more details regarding my professional experience, refer to [my CV](https://drive.google.com/file/d/1C5IvnWA-DN77B7PmeGEAFRIJyu-ZbiCJ/view?usp=drive_link)
+- Software Engineer, Startup enthusiast, relentless builder
+- Bachelor's Degree in Computer Engineering from Polytechnic School of the University of São Paulo (POLI-USP)
+- Here, you can find all the relevant projects I developed/contributed to throughout my career
 
 # Contact me
   
